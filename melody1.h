@@ -11,7 +11,7 @@
 
 
 // First channel melody
-FLASH_TABLE(int, melody, 2,
+FLASH_TABLE(int, melody1, 2,
 
  //1
  
